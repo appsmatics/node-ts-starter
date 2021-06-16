@@ -1,2 +1,2 @@
-# ts-starter
-Simple starter for Typescript
+# node-ts-starter
+Simple starter template for Node with Typescript
