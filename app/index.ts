@@ -26,6 +26,6 @@ app.get('/', (req:Request, res:Response) => {
   console.debug('Listening on ' + bind);
 }
 
-const port = process.env.SERVER_PORT || 8000;
+const port = process.env.SERVER_PORT || 8080;
 
 server.listen(port)
